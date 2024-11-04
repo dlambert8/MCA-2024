@@ -1,9 +1,8 @@
 # Music Curation Project
 ## Week 1: Musical Datasets
 Task 2: I have identified Allesandro Amato as my particular artist of analysis for my project, and more specifically the song Adea. Audio recordings and metadata have been easy to find and are available on multiple websites. This sheet music was relatively easy to find thanks to IMSLP.org. This website provides digital notation music for the piano played in this song.
-![Screenshot 2024-11-04 152145](https://github.com/user-attachments/assets/0657c30c-d27b-4142-a0a8-8b0a9d8ca833)
-![Screenshot 2024-11-04 152343](https://github.com/user-attachments/assets/254bf4cb-dd6e-4a76-9123-dad3c7a69936)
-
+Here is an upload of the music that I transcribed.
+![Screenshot 2024-11-04 152751](https://github.com/user-attachments/assets/4a773162-2e6e-4347-833d-b2ac0347f6b4)
 
 Task 3: Based on my experience earlier of attempting to work with music related data, I found it difficult particularly in the access aspect. This is more directed towards the musical sheets, as the other artists I was looked at, which were in bands as opposed to classical composers, could only be found on subscription and purchase-based websites. This makes the music harder to access, as I am requiring to pay in order to find the specific information I need. The current manifestations of data relate to this issue, as in a lot of cases data it is not as freely accessible as it should be. Individuals could face struggle in attempting to gather information which is being witheld from them due to profitability reasons and this is unfair.
 ## Week 2: Using MuseScore
