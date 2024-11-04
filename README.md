@@ -21,3 +21,8 @@ Task 2: Here are the music data visualisations that I generated from inputting c
 ![new image 3](https://github.com/user-attachments/assets/53fe59a6-7aa5-46a7-8f96-291d572e0a1e)
 
 ## Week 5: Editing MEI Code
+Here is an initial piece of code for my MEI music file.
+![new ss of code mei initial](https://github.com/user-attachments/assets/bbc7a35e-66fb-46b1-8b31-794a49d1eafa)
+
+This is then the altered document, where I have inputted details such as publisher, location and price.
+![resized image ](https://github.com/user-attachments/assets/8ea51501-e143-4900-914a-7532dbe55267)
