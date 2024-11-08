@@ -26,3 +26,8 @@ Here is an initial piece of code for my MEI music file.
 
 This is then the altered document, where I have inputted details such as publisher, location and price.
 ![resized image ](https://github.com/user-attachments/assets/8ea51501-e143-4900-914a-7532dbe55267)
+
+## Week 7: MEI Copyright Licensing
+Here is a second version of my MEI file with the updated metadata. I have now added the metadata of genre classifications and a creative commons license. (As we can see in the highlighted yellow.
+<img width="400" alt="New notes added to mei friend" src="https://github.com/user-attachments/assets/e5a4ad5a-7267-41dd-99e3-56ca2f87665c">
+
