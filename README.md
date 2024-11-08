@@ -29,5 +29,6 @@ This is then the altered document, where I have inputted details such as publish
 
 ## Week 7: MEI Copyright Licensing
 Here is a second version of my MEI file with the updated metadata. I have now added the metadata of genre classifications and a creative commons license. (As we can see in the highlighted yellow.
-<img width="400" alt="New notes added to mei friend" src="https://github.com/user-attachments/assets/e5a4ad5a-7267-41dd-99e3-56ca2f87665c">
+
+<img width="821" alt="New notes added to mei friend" src="https://github.com/user-attachments/assets/1493d91a-c30a-41b9-89c5-501329429d09">
 
