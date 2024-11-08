@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>My Piece in Verovio</title>
+    <style>
+    html, body {
+        width: 100%;
+        height: 100%;
+        margin: 0;
+    }
+    .box {
+        display: flex;
+        flex-flow: column;
+        height: 100%;
+    }
+    .box .header {
+       flex: 0 1 auto;
+    }
+    .box #app {
+        flex: 1 1 auto;
+    }
+    </style>
+</head>
+<body>
+    <div class="box">
+    <div class="header"><h1>Week 3</h1>
+        <p>[The MusicXML file has a variety of different elements compared to the MEI files. For example the MusicXML file has over 600,000 characters as opposed to my MEI file which is at just 300,000 characters. The MEI files provide each note with an ID, unlike MusicXML. This would definitely be helpful if a musical sheet does not have a distinctive title. 
+            The rest element in MEI is also much more simple, only including a duration attribute on the same line, whereas the MusicXML file requires several lines for duration, voice and type. 
+            MEI files also keeps the note element on one single line with the attributes of dots, dur, oct, pname and stem.dir. MusicXML's note element however, is much more complicated, taking up multiple lines for each detail such as pitch, step, octave, duration, tie type, voice, type, dot default, stem, staff, beam number, notations and slur type.]</p></div>
+    <div id="app">Verovio is loading...</div>
+    <script type="module">
+        import 'https://www.verovio.org/javascript/app/verovio-app.js';
+        
+        const options = {
+            defaultView: 'responsive', // default is 'responsive', alternative is 'document'
+            defaultZoom: 3, // 0-7, default is 4
+            enableResponsive: true, // default is true
+            enableDocument: true // default is true
+        }
+        
+        // A MusicXML file
+        var file = 'data/adeameithatshouldwork.mei';
+        // A MEI file
+        //var file = 'https://www.verovio.org/editor/brahms.mei';
+        
+        const app = new Verovio.App(document.getElementById("app"), options);
+        fetch(file)
+            .then(function(response) {
+                return response.text();
+            })
+            .then(function(text) {
+                app.loadData(text);
+            });
+    </script>
+    </div>
+</body>
+</html>
