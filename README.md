@@ -39,16 +39,32 @@ Task 1: Creating a table for the pieces related to my theme
 <table>  
 <tr>  
 <th>Title</th>
+<th>Artist</th>  
 <th>Composer</th>
-<th>Copyright</th>
+<th>Copyright information</th>
 <th>Genre</th>
 <th>Source</th>
 <th>File Format</th>
 <th>Number of Channels</th>
-  
+<th>Sample Rate</th> 
+<th>Bits Per Second</th>  
+<th>Duration</th>  
 </tr>
 
-
+<tr> 
+<td>Berceuse n. 3 Adea</td>
+<td>Alessandro Amato</td>
+<td>Alessandro Amato</td>
+<td>	
+Creative Commons Attribution Non-commercial No Derivatives 3.0 
+</td>
+<td>Classical/Piano</td>
+<td>IMSLP</td>
+<td>MP3</td>
+<td>2</td>
+<td>48000Hz</td> 
+<td>128kbps</td>  
+</tr>
 
 
 
