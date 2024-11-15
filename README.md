@@ -99,7 +99,10 @@ Creative Commons Attribution 4.0
 </table>
 
 Task 2: Here are the waveforms and the spectograms for my pieces  
-Adea by Alessandro Amato
+
+Waveforms and spectogram for Adea by Alessandro Amato
+
 ![Screenshot 2024-11-15 020800](https://github.com/user-attachments/assets/d9872432-35d1-4ea6-8458-dcee52f1ac38)
+
 ![Screenshot 2024-11-15 021306](https://github.com/user-attachments/assets/173149c6-c0d5-48df-b373-199e702036ad)
 
