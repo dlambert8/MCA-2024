@@ -100,9 +100,15 @@ Creative Commons Attribution 4.0
 
 Task 2: Here are the waveforms and the spectograms for my pieces  
 
-Waveforms and spectogram for Adea by Alessandro Amato
+Waveforms and spectogram for Berceuse n. 3 Adea by Alessandro Amato
 
 ![Screenshot 2024-11-15 020800](https://github.com/user-attachments/assets/d9872432-35d1-4ea6-8458-dcee52f1ac38)
 
 ![Screenshot 2024-11-15 021306](https://github.com/user-attachments/assets/173149c6-c0d5-48df-b373-199e702036ad)
+
+Waveforms and spectogram for Für Elise, WoO 59 by Ludwig van Beethoven
+
+![Screenshot 2024-11-15 022342](https://github.com/user-attachments/assets/0bb5e42e-5f5c-4a5f-9da0-c96a172dbd7d)
+
+![Screenshot 2024-11-15 022415](https://github.com/user-attachments/assets/ce4569da-fcc1-41f4-a428-f22f72b5f53d)
 
