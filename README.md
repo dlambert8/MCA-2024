@@ -112,3 +112,8 @@ Waveforms and spectogram for Für Elise, WoO 59 by Ludwig van Beethoven
 
 ![Screenshot 2024-11-15 022415](https://github.com/user-attachments/assets/ce4569da-fcc1-41f4-a428-f22f72b5f53d)
 
+Waveforms and spectogram for Piano Sonata No.14, Op.27 No.2 by Ludwig van Beethoven
+
+![Screenshot 2024-11-15 023821](https://github.com/user-attachments/assets/458db3ae-4681-483f-98a8-9511bd399457)
+
+![Screenshot 2024-11-15 023841](https://github.com/user-attachments/assets/9bcb2637-d67b-41f1-b019-a6c302548ce8)
