@@ -33,3 +33,30 @@ Here is a second version of my MEI file with the updated metadata. I have now ad
 <img width="821" alt="New notes added to mei friend" src="https://github.com/user-attachments/assets/1493d91a-c30a-41b9-89c5-501329429d09">
 
 In terms of genre classifications, I added the details of my genre as modern classical because my piece is of recent decades (2010s) yet is a piano piece with musical properties resembling classical music. I also believe the CC by 4.0 license is the most logical to choose as it accurately gives credit to me, as the creator of this MEI document, whilst also allowing other users to share and build upon the material. This can be seen once I copy the license agreement, where it states that reusers must give credit to the creator whilst allowing reusers to "distribute, remix, adapt, and build upon the material in any medium or format, even for commercial purposes." (Creative Commons, 2024). 
+
+# Week 8: Analysing Acoustic Data
+Task 1: Creating a table for the pieces related to my theme
+<table>  
+<tr>  
+<th>Title</th>
+<th>Composer</th>
+<th>Copyright</th>
+<th>Genre</th>
+<th>Source</th>
+<th>File Format</th>
+<th>Number of Channels</th>
+  
+</tr>
+
+
+
+
+
+
+
+
+</table>
+
+
+  
+</table>
