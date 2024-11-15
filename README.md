@@ -63,10 +63,25 @@ Creative Commons Attribution Non-commercial No Derivatives 3.0
 <td>MP3</td>
 <td>2</td>
 <td>48000Hz</td> 
-<td>128kbps</td>  
+<td>128kbps</td>
+<td>5 minutes 53 seconds</td>  
 </tr>
 
-
+<tr> 
+<td>Für Elise, WoO 59</td>
+<td>Lev Kitkin</td>
+<td>Ludwig van Beethoven</td>
+<td>	
+Creative Commons Attribution 4.0 
+</td>
+<td>Classical/Bagatelles/Piano</td>
+<td>IMSLP</td>
+<td>FLAC</td>
+<td>2</td> 
+<td>96000Hz</td>  
+<td>1472kbps</td> 
+<td>3 minutes 18 seconds</td>  
+</tr>
 
 
 
