@@ -25,9 +25,13 @@ Task 1: Create a metadata schema by listing 5 elements
 
 Chosen elements:
 Title
+
 Composer
+
 Publisher
+
 Address Line
+
 Price
 
  Here is a link here to my mei file 
