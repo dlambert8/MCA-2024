@@ -24,17 +24,18 @@ Task 2: Here are the music data visualisations that I generated from inputting c
 Task 1: Create a metadata schema by listing 5 elements
 
 Chosen elements:
-Title
 
-Composer
+<Title
 
-Publisher
+<Composer
 
-Address Line
+<Publisher
 
-Price
+<Address Line
 
- Here is a link here to my mei file 
+<Price
+
+<Here is a link here to my mei file 
 
 
 
