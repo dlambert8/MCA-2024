@@ -24,7 +24,7 @@ Task 2: Here are the music data visualisations that I generated from inputting c
 Task 1: Create a metadata schema by listing 5 elements
 
 Chosen elements:
-Title of the piece
+Title
 Composer
 Publisher
 Address Line
