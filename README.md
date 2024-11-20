@@ -1,4 +1,5 @@
 # Music Curation Project
+## Welcome to my Music Curation Homepage. Here you can click links that demonstrate learning in each week.
 | [Week 1: Musical Datasets](#week-1-musical-datasets) | [Week 2: Using MuseScore](#week-2-using-musescore) |
 
 ## Week 1: Musical Datasets
