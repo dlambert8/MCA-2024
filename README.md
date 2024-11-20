@@ -24,10 +24,15 @@ Task 2: Here are the music data visualisations that I generated from inputting c
 Task 1: Create a metadata schema by listing 5 elements
 
 Chosen elements:
+
 < Title
+
 < Composer
+
 < Publisher
+
 < Address line 
+
 < Price
 
 Here is a link [to my meifriend file](https://raw.githubusercontent.com/dlambert8/MCA-2024/refs/heads/master/Adea%20by%20Allesandro%20Amato%20-%20copy-Part_1%20(1).mei) 
