@@ -145,3 +145,5 @@ Waveforms and spectogram for Piano Sonata No.14, Op.27 No.2 by Ludwig van Beetho
 ![Screenshot 2024-11-15 023821](https://github.com/user-attachments/assets/458db3ae-4681-483f-98a8-9511bd399457)
 
 ![Screenshot 2024-11-15 023841](https://github.com/user-attachments/assets/9bcb2637-d67b-41f1-b019-a6c302548ce8)
+
+One key advantage that time frequency analysis has over a waveform-based analysis is that sounds are analysed as individual components. We can observe this on specifically on the spectrograms for Piano Sonata No.14, Op.27 No.2 by Ludwig van Beethoven. As multiple notes are played on the piano throughout this song, the spectrogram individually captures each note and is represented through multiple colours. On the other hand, the waveform-based analysis only captures noise collectively and doesn’t distinguish between individual instruments and notes. As a result, the music data which can be understood from a time frequency analysis is much more detailed.
