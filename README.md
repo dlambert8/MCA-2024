@@ -1,6 +1,8 @@
 # Music Curation Project
  [Week 1: Musical Datasets](#week-1-musical-datasets) 
+ 
  [Week 2: Using MuseScore](#week-2-using-musescore) 
+ 
  [Week 3: Music XML Files](#week-3-music-xml-files)
 
 ## Week 1: Musical Datasets
