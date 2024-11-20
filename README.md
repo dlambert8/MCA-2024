@@ -22,14 +22,15 @@ Task 2: Here are the music data visualisations that I generated from inputting c
 
 ## Week 5: Editing MEI Code
 Task 1: Create a metadata schema by listing 5 elements
-Chosen elements:
-> Title of the piece
-> Composer
-> Publisher
-> Address Line
-> Price
 
- Here is a link here to my mei file  https://mei-friend.mdw.ac.at/# 
+Chosen elements:
+>   Title of the piece
+>  Composer
+>   Publisher
+>   Address Line
+>   Price
+
+ Here is a link here to my mei file 
 
 
 
