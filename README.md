@@ -128,21 +128,27 @@ Creative Commons Attribution 4.0
 
 Task 2: Here are the waveforms and the spectograms for my pieces  
 
-Waveforms and spectogram for Berceuse n. 3 Adea by Alessandro Amato
+Below me is the waveform-based analysis on Berceuse n. 3 Adea by Alessandro Amato.
 
 ![Screenshot 2024-11-15 020800](https://github.com/user-attachments/assets/d9872432-35d1-4ea6-8458-dcee52f1ac38)
 
+Below me here is the time-frequency analysis spectogram for Berceuse n. 3 Adea by Alessandro Amato.
+
 ![Screenshot 2024-11-15 021306](https://github.com/user-attachments/assets/173149c6-c0d5-48df-b373-199e702036ad)
 
-Waveforms and spectogram for Für Elise, WoO 59 by Ludwig van Beethoven
+Below me here is the waveform-based analysis for Für Elise, WoO 59 by Ludwig van Beethoven.
 
 ![Screenshot 2024-11-15 022342](https://github.com/user-attachments/assets/0bb5e42e-5f5c-4a5f-9da0-c96a172dbd7d)
 
+Below me here is the time-frequency analysis spectogram for Für Elise, WoO 59 by Ludwig van Beethoven.
+
 ![Screenshot 2024-11-15 022415](https://github.com/user-attachments/assets/ce4569da-fcc1-41f4-a428-f22f72b5f53d)
 
-Waveforms and spectogram for Piano Sonata No.14, Op.27 No.2 by Ludwig van Beethoven
+Below me is the waveform-based analysis on Piano Sonata No.14, Op.27 No.2 by Ludwig van Beethoven.
 
 ![Screenshot 2024-11-15 023821](https://github.com/user-attachments/assets/458db3ae-4681-483f-98a8-9511bd399457)
+
+Below me is the time-frequency analysis on Piano Sonata No.14, Op.27 No.2 by Ludwig van Beethoven.
 
 ![Screenshot 2024-11-15 023841](https://github.com/user-attachments/assets/9bcb2637-d67b-41f1-b019-a6c302548ce8)
 
