@@ -35,7 +35,7 @@ Chosen elements:
 
 < Price
 
-<Here is a link here to my mei file 
+Here is a link here to my mei file 
 
 
 
