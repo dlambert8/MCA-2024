@@ -1,5 +1,5 @@
 # Music Curation Project
-| [Week 1] (## Week 1:Musical Datasets)
+| [Week 1] (#week-1)
 ## Week 1: Musical Datasets
 I have identified Allesandro Amato as my particular artist of analysis for my project, and more specifically the song Adea. Audio recordings and metadata have been easy to find and are available on multiple websites. This sheet music was relatively easy to find thanks to IMSLP.org. This website provides digital notation music for the piano played in this song.
 Here is an uploaded photo of the music that I transcribed.
