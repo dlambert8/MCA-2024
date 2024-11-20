@@ -42,7 +42,7 @@ Here is a link [to my meifriend file](https://raw.githubusercontent.com/dlambert
 
 
 ## Week 7: MEI Copyright Licensing
-Here is a second version of my MEI file with the updated metadata. I have now added the metadata of genre classifications and a creative commons license. (As we can see in the highlighted yellow. Once again here is the link to the mei file [I added this to](https://raw.githubusercontent.com/dlambert8/MCA-2024/refs/heads/master/Adea%20by%20Allesandro%20Amato%20-%20copy-Part_1%20(1).mei)
+Here is a second version of my MEI file with the updated metadata. I have now added the metadata of genre classifications and a creative commons license, as we can see in the highlighted yellow. Once again here is the link to the mei file [I added this to](https://raw.githubusercontent.com/dlambert8/MCA-2024/refs/heads/master/Adea%20by%20Allesandro%20Amato%20-%20copy-Part_1%20(1).mei)
 
 ![mei friend photo](https://github.com/user-attachments/assets/5b1c86d0-f773-467a-86d3-f561ac8ef3fa)
 
