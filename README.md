@@ -50,7 +50,7 @@ Task 2: Here are the music data visualisations that I generated from inputting c
 
 
 ## Week 5: Editing MEI Code
-Task 1: Create a metadata schema by listing 5 elements
+Task 1: Create a metadata schema by listing 5 elements.
 
 Chosen elements:
 
@@ -144,7 +144,7 @@ Creative Commons Attribution 4.0
 </tr>
 </table>
 
-Task 2: Here are the waveforms and the spectograms for my pieces  
+Task 2: Here are the waveforms and the spectograms for my pieces.
 
 Below me is the waveform-based analysis on Berceuse n. 3 Adea by Alessandro Amato.
 
@@ -181,10 +181,37 @@ Spectogram for Berceuse n. 3 Adea by Alessandro Amato.
 
 ![Screenshot 2024-11-21 102920](https://github.com/user-attachments/assets/ab7f6056-ec04-42cf-949c-9e2e6d05279d)
 
-Mel Frequency Cepstral Coefficients for Berceuse n. 3 Adea by Alessandro Amato
+Mel Frequency Cepstral Coefficients for Berceuse n. 3 Adea by Alessandro Amato.
 
 ![Screenshot 2024-11-21 102945](https://github.com/user-attachments/assets/430d700b-2944-4645-a808-ebb55e5cb3c3)
 
-Chromagram for Berceuse n. 3 Adea by Alessandro Amato
+Chromagram for Berceuse n. 3 Adea by Alessandro Amato.
 
 ![adea](https://github.com/user-attachments/assets/5bfb81f6-452c-4e3a-8140-acbf5c094d20)
+
+Spectogram for Für Elise, WoO 59 by Ludwig van Beethoven.
+
+![fur elise 3](https://github.com/user-attachments/assets/a7eced66-addc-41cb-b960-5632c87ae35c)
+
+
+Mel Frequency Cepstral Coefficients for Für Elise, WoO 59 by Ludwig van Beethoven.
+
+![Fur elise](https://github.com/user-attachments/assets/3e0c5c3e-b7fc-486f-95f6-8b229aac4248)
+
+
+Chromagram for Für Elise, WoO 59 by Ludwig van Beethoven.
+
+![fur elise (2)](https://github.com/user-attachments/assets/63a81f1a-c46b-4d96-b7e4-11c9138049e1)
+
+
+Spectogram for Moonlight Sonata Except by Ludwig van Beethoven
+
+![moonlight (2)](https://github.com/user-attachments/assets/03c20680-d342-423e-9a9e-c088b5cfc7ff)
+
+Mel Frequency Cepstral Coefficients for Moonlight Sonata Except by Ludwig van Beethoven
+
+![moonlight](https://github.com/user-attachments/assets/a09c5692-44d1-40fd-ba94-33b45afb812d)
+
+Chromagram for Piano Sonata No.14, Op.27 No.2 by Ludwig van Beethoven.
+
+![Screenshot 2024-11-21 103925](https://github.com/user-attachments/assets/bbbc5b1c-d4a1-4bdc-806b-a34bcb259ab2)
