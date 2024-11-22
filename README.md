@@ -80,7 +80,7 @@ In terms of genre classifications, I added the details of my genre as modern cla
 [Back to Weekly Task Tab](#each-weeks-tasks)
 
 
-# Week 8: Analysing Acoustic Data
+## Week 8: Analysing Acoustic Data
 Task 1: Creating a table for the pieces related to my theme
 <table>  
 <tr>  
@@ -175,3 +175,16 @@ One key advantage that time frequency analysis has over a waveform-based analysi
 [Back to Weekly Task Tab](#each-weeks-tasks)
 
 
+## Week 9: Extracting data from audio
+
+Spectogram for Berceuse n. 3 Adea by Alessandro Amato.
+
+![Screenshot 2024-11-21 102920](https://github.com/user-attachments/assets/ab7f6056-ec04-42cf-949c-9e2e6d05279d)
+
+Mel Frequency Cepstral Coefficients for Berceuse n. 3 Adea by Alessandro Amato
+
+![Screenshot 2024-11-21 102945](https://github.com/user-attachments/assets/430d700b-2944-4645-a808-ebb55e5cb3c3)
+
+Chromagram for Berceuse n. 3 Adea by Alessandro Amato
+
+![adea](https://github.com/user-attachments/assets/5bfb81f6-452c-4e3a-8140-acbf5c094d20)
