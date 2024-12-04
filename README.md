@@ -219,12 +219,5 @@ Chromagram for Piano Sonata No.14, Op.27 No.2 by Ludwig van Beethoven.
 
 Task 2: Histogram Comparisons for MFCC of 3 chosen tracks
 MFCC for Adea
-![Screenshot 2024-12-04 012304](https://github.com/user-attachments/assets/3567d1a4-8612-4932-9473-870ea215409f)
-![Screenshot 2024-12-04 012326](https://github.com/user-attachments/assets/7e567462-f6a7-49d7-9929-b620136cfeb8)
-![Screenshot 2024-12-04 012406](https://github.com/user-attachments/assets/42535c32-d7a5-4896-9d36-a9c7e784f02e)
-![Screenshot 2024-12-04 012421](https://github.com/user-attachments/assets/4ee1d45f-0357-497b-bfbd-9b1ef1ccc6c3)
-![Screenshot 2024-12-04 012459](https://github.com/user-attachments/assets/ddb11f16-088c-4a8c-b671-c91349220a82)
-![Screenshot 2024-12-04 012529](https://github.com/user-attachments/assets/4579cf8e-aa0b-4313-93a5-78977b77f5b0)
 
-moonlight_melfrequency.ipynb
 
