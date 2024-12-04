@@ -1,5 +1,5 @@
 ## Week 4: jSymbolic and Music21 
-Task 1: Here were the results for my comparison of musical data in the sheet music Adea by Alessandro Amato and Right Here, Right Now by Fatboy Slim. 
+Task 1: Here were the results for my comparison of musical data in the sheet music Berceuse n. 3 Adea by Alessandro Amato and Right Here, Right Now by Fatboy Slim. 
 ![image](https://github.com/user-attachments/assets/7fa49a23-cefd-4ab4-a4b3-5a8d65389b17) 
 Task 2: Here are the music data visualisations that I generated from inputting cell instructions to Music21 on Jupyter Notebooks.
 
