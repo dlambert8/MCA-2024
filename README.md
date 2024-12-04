@@ -219,5 +219,5 @@ Chromagram for Piano Sonata No.14, Op.27 No.2 by Ludwig van Beethoven.
 
 Task 2: Histogram Comparisons for MFCC of 3 chosen tracks
 Chromagrams:
-[Adea](adeachroma.ipynb) 
+[Adea](https://github.com/dlambert8/MCA-2024/blob/master/adeachroma.ipynb) 
 
