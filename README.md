@@ -16,7 +16,7 @@
 
  [Week 9](#week-9-extracting-data-from-audio)
 
- [Week 10](#week-9-extracting-data-from-audio)
+ [Week 10](#week-10-similarity-matrix-and-transcription)
  
 ## Week 1: Musical Datasets
 I have identified Alessandro Amato as my particular artist of analysis for my project, and more specifically the song Adea. Audio recordings and metadata have been easy to find and are available on multiple websites. This sheet music was relatively easy to find thanks to IMSLP.org. This website provides digital notation music for the piano played in this song.
