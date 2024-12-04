@@ -221,26 +221,20 @@ Task 2: Histogram Comparisons for MFCC of 3 chosen tracks
 Chromagrams:
 
 
-[Adea](https://github.com/dlambert8/MCA-2024/blob/master/adeachroma.ipynb) 
+[1. Adea](https://github.com/dlambert8/MCA-2024/blob/master/adeachroma.ipynb) 
 
-[Moonlight Sonata](https://github.com/dlambert8/MCA-2024/blob/master/moonlightchroma%20(1).ipynb)
+[2. Moonlight Sonata](https://github.com/dlambert8/MCA-2024/blob/master/moonlightchroma%20(1).ipynb)
 
-
-[Flight FM](https://github.com/dlambert8/MCA-2024/blob/master/flightfmchroma.ipynb)
-
+[3. Flight FM](https://github.com/dlambert8/MCA-2024/blob/master/flightfmchroma.ipynb)
 
 Mel Frequency Cepstral Coefficients:
-[Adea](https://github.com/dlambert8/MCA-2024/blob/master/adea_melfrequency.ipynb)
-
-
-[Moonlight Sonata](https://github.com/dlambert8/MCA-2024/blob/master/moonlight_melfrequency.ipynb)
-
-
-[Flight FM](https://github.com/dlambert8/MCA-2024/blob/master/flightfm.ipynb)
+[1. Adea](https://github.com/dlambert8/MCA-2024/blob/master/adea_melfrequency.ipynb)
+[2. Moonlight Sonata](https://github.com/dlambert8/MCA-2024/blob/master/moonlight_melfrequency.ipynb)
+[3. Flight FM](https://github.com/dlambert8/MCA-2024/blob/master/flightfm.ipynb)
 
 
 
 Spectograms:
-[Adea](https://github.com/dlambert8/MCA-2024/blob/master/adeaspectogram.ipynb)
-[Moonlight Sonata](https://github.com/dlambert8/MCA-2024/blob/master/moonlightspectogram.ipynb)
-[Flight FM](https://github.com/dlambert8/MCA-2024/blob/master/flightfmspectogram.ipynb)
+[1. Adea](https://github.com/dlambert8/MCA-2024/blob/master/adeaspectogram.ipynb)
+[2. Moonlight Sonata](https://github.com/dlambert8/MCA-2024/blob/master/moonlightspectogram.ipynb)
+[3. Flight FM](https://github.com/dlambert8/MCA-2024/blob/master/flightfmspectogram.ipynb)
