@@ -1,5 +1,8 @@
 # Music Curation Project
-## Each Weeks' Tasks
+
+## Berceuse n. 3 Adea by Alessandro Amato
+
+### Each Weeks' Tasks
  [Week 1](week1task.md) 
  
  [Week 2](week2task.md) 
