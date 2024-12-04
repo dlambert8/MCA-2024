@@ -82,7 +82,7 @@ In terms of genre classifications, I added the details of my genre as modern cla
 
 
 ## Week 8: Analysing Acoustic Data
-Task 1: Creating a table for the pieces related to my theme
+### Task 1: Creating a table for the pieces related to my theme
 <table>  
 <tr>  
 <th>Title</th>
@@ -145,7 +145,7 @@ Creative Commons Attribution 4.0
 </tr>
 </table>
 
-Task 2: Here are the waveforms and the spectograms for my pieces.
+### Task 2: Here are the waveforms and the spectograms for my pieces.
 
 Below me is the waveform-based analysis on Berceuse n. 3 Adea by Alessandro Amato.
 
@@ -177,6 +177,8 @@ One key advantage that time frequency analysis has over a waveform-based analysi
 
 
 ## Week 9: Extracting data from audio
+
+### Task 1: Generating spectograms, MFCCs and chromagrams from SonicVisualiser.
 
 Spectogram for Berceuse n. 3 Adea by Alessandro Amato.
 
