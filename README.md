@@ -220,6 +220,7 @@ Chromagram for Piano Sonata No.14, Op.27 No.2 by Ludwig van Beethoven.
 
 ![Screenshot 2024-11-21 103925](https://github.com/user-attachments/assets/bbbc5b1c-d4a1-4bdc-806b-a34bcb259ab2)
 
+
 ### Task 2: Histogram Comparisons for MFCC of 3 chosen tracks
 (Note: I had to edit out Für Elise, WoO 59 by Ludwig van Beethoven for Flight FM by Joy Orbison because the audio had randomly corrupted an was no longer working.)
 #### Chromagrams:
@@ -253,3 +254,7 @@ Chromagram for Piano Sonata No.14, Op.27 No.2 by Ludwig van Beethoven.
 
 
 The first histogram captures differences in the sound produced through a graph similar to a heatmap. As my third track is a modern electronic techno song, it has much more than just one instrument playing at once. This is stark in contrast to the other two songs, which are both piano pieces. The second graph, which captures single features, similarly captures the similarity with both piano pieces and a difference with the third piece. The third piece reaches much higher peaks at common frequency. I’m assuming this is the average volume of the song, which would make sense, as it uses loud synthesisers throughout. The third bar graph, which also captures single features, shows a clear difference between the songs. Each song’s graph experiences high points and low points at individual times and periods. The third piece once more is the easiest to distinguish, as the lines on the chart are slightly chunkier. I believe that this would again be due to the multiple instruments and sounds playing at once. The final graph is the one that shows the most significant differences between the songs. This is due to the 19 small bar graphs that display audio patterns during the respective songs. Each pattern in these graphs is clear in its contrast to the other. Overall, these graphs met my expectations, as the two songs, Adea by Alessandro Amato and Moonlight by Ludwig Beethoven, are both classical piano pieces and share the most common similarities, whereas Flight FM is a modern electronic techno song and shares the most differences between the two.
+
+
+
+[Back to Weekly Task Tab](#each-weeks-tasks)
