@@ -232,13 +232,23 @@ Chromagrams:
 [3. Flight FM](https://github.com/dlambert8/MCA-2024/blob/master/flightfmchroma.ipynb)
 
 Mel Frequency Cepstral Coefficients:
+
+
 [1. Adea](https://github.com/dlambert8/MCA-2024/blob/master/adea_melfrequency.ipynb)
+
 [2. Moonlight Sonata](https://github.com/dlambert8/MCA-2024/blob/master/moonlight_melfrequency.ipynb)
+
 [3. Flight FM](https://github.com/dlambert8/MCA-2024/blob/master/flightfm.ipynb)
 
 
 
 Spectograms:
+
+
 [1. Adea](https://github.com/dlambert8/MCA-2024/blob/master/adeaspectogram.ipynb)
+
 [2. Moonlight Sonata](https://github.com/dlambert8/MCA-2024/blob/master/moonlightspectogram.ipynb)
+
 [3. Flight FM](https://github.com/dlambert8/MCA-2024/blob/master/flightfmspectogram.ipynb)
+
+
