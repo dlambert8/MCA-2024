@@ -1,6 +1,6 @@
 # Music Curation Project
 ## Each Weeks' Tasks
- [Week 1](#week-1-musical-datasets) 
+ [Week 1](week1task.md) 
  
  [Week 2](#week-2-using-musescore) 
  
