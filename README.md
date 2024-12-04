@@ -222,7 +222,7 @@ Chromagram for Piano Sonata No.14, Op.27 No.2 by Ludwig van Beethoven.
 
 ### Task 2: Histogram Comparisons for MFCC of 3 chosen tracks
 
-Chromagrams:
+#### Chromagrams:
 
 
 [1. Adea](https://github.com/dlambert8/MCA-2024/blob/master/adeachroma.ipynb) 
@@ -231,7 +231,7 @@ Chromagrams:
 
 [3. Flight FM](https://github.com/dlambert8/MCA-2024/blob/master/flightfmchroma.ipynb)
 
-Mel Frequency Cepstral Coefficients:
+#### Mel Frequency Cepstral Coefficients:
 
 
 [1. Adea](https://github.com/dlambert8/MCA-2024/blob/master/adea_melfrequency.ipynb)
@@ -242,7 +242,7 @@ Mel Frequency Cepstral Coefficients:
 
 
 
-Spectograms:
+#### Spectograms:
 
 
 [1. Adea](https://github.com/dlambert8/MCA-2024/blob/master/adeaspectogram.ipynb)
