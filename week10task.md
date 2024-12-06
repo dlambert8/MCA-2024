@@ -17,6 +17,14 @@ This is the transcribed piece.
 
 
 
-Upon comparing the images, there are multiple transcription errors with information being lost. To begin with, the first clear losses of detail would be the title and composer name, which are completely erased from the original piece. The metadata is crucial for identifying the song, so losing this is relatively significant. The next fundamental aspect of the piece that has been lost is the tempo markings. In the original it states ♩ = 100, whereas in the transcribed piece it states ♩ = 91, which is a significant deviation from the original. While there are a lot more errors in this piece, the transcribed piece has managed to retain melodic content as well as the overall structure being accurate. Overall, the transcription misses more of the important musical content than what it recaptures. Essentially, I am looking at a whole different piece, as the crucial components listed are completely absent.
+When comparing the two pieces, there are multiple errors of important information that is lost. The first clear difference is the metadata (title, composer name and year of publication) at the top of the song, which is not present in the second one. This is relatively significant for identifying the song, so losing this data makes the song hard to distinguish. The tempo notes are also completely inaccurate on the transcribed piece, with the tempo changing from 100 to 91. This will heavily impact the song, as the beats per minute will be completely different. The serenamente tempo note is also not present in the second sheet, which affects the way in which the performer should play the piece. Overall, the transcription misses a lot more of the musical content than what it recaptures. Essentially, I am looking at a whole different piece, as the crucial components listed are completely absent.
+
+Whilst the writing and argument in this portfolio are my own and I take responsibility for all errors. [chatGPT] model has been used as an editing tool during the creation of this portfolip page to: 
+
+translate what an Italian tempo note means; 
+Catalogue of prompts: 
+Initial prompt: ‘[what does serenamente mean in tempo notes?]’ , Date: [06/12/2024] 
+
+
 
 [Back to Weekly Task Tab](README.md)
