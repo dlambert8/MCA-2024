@@ -1,6 +1,60 @@
 ## Week 4: jSymbolic and Music21 
 Task 1: Here were the results for my comparison of musical data in the sheet music Berceuse n. 3 Adea by Alessandro Amato and Right Here, Right Now by Fatboy Slim. 
-![image](https://github.com/user-attachments/assets/7fa49a23-cefd-4ab4-a4b3-5a8d65389b17) 
+
+<table>  
+<tr>  
+<th>Title</th>
+<th>Artist</th>  
+<th>Number of pitches</th>
+<th>Number of Pitch Classes</th>
+<th>Genre</th>
+<th>Source</th>
+<th>File Format</th>
+<th>Number of Channels</th>
+<th>Sample Rate</th> 
+<th>Bits Per Second</th>  
+<th>Duration</th>  
+</tr>
+
+<tr> 
+<td>Berceuse n. 3 Adea</td>
+<td>Alessandro Amato</td>
+<td>Alessandro Amato</td>
+<td>	
+Creative Commons Attribution Non-commercial No Derivatives 3.0 
+</td>
+<td>Classical/Piano</td>
+<td>IMSLP</td>
+<td>MP3</td>
+<td>2</td>
+<td>48000Hz</td> 
+<td>128kbps</td>
+<td>5 minutes 53 seconds</td>  
+</tr>
+
+<tr> 
+<td>Right Here, Right Now</td>
+<td>Fatboy Slim</td>
+<td>Ludwig van Beethoven</td>
+<td>	
+Creative Commons Attribution 4.0 
+</td>
+<td>Classical/Bagatelles/Piano</td>
+<td>IMSLP</td>
+<td>FLAC</td>
+<td>2</td> 
+<td>96000Hz</td>  
+<td>1472kbps</td> 
+<td>3 minutes 18 seconds</td>  
+</tr>
+
+
+
+
+
+
+
+
 Task 2: Here are the music data visualisations that I generated from inputting cell instructions to Music21 on Jupyter Notebooks.
 
 ![Image graph](https://github.com/user-attachments/assets/d6d9279a-f022-4798-a2a0-6f29175330db)
