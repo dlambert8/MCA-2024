@@ -5,6 +5,7 @@ Here is a [table](week4table.md) for the results in my comparison of musical dat
 
 ### Task 2: Music 21 Data Visualisations
 Here are the music data visualisations that I generated from inputting cell instructions to Music21 on Jupyter Notebooks.
+
 Below me is the piano roll of pitches for my chosen piece.
 ![Image graph](https://github.com/user-attachments/assets/d6d9279a-f022-4798-a2a0-6f29175330db)
 
