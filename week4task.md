@@ -1,6 +1,6 @@
 ## Week 4: jSymbolic and Music21 
-Task 1: Here were the results for my comparison of musical data in the sheet music Berceuse n. 3 Adea by Alessandro Amato and Right Here, Right Now by Fatboy Slim. 
-
+### Task 1: JSymbolic Comparison of two songs
+Here were the results for my comparison of musical data in the sheet music Berceuse n. 3 Adea by Alessandro Amato and Right Here, Right Now by Fatboy Slim. 
 <table>  
 <tr>  
 <th>Title</th>
@@ -31,8 +31,7 @@ Task 1: Here were the results for my comparison of musical data in the sheet mus
 <td>69</td>
 <td>9</td>  
 <td>2</td> 
-<td>10.13</td>
-<td>2</td>  
+<td>10.13</td>  
 </tr>
 
 <tr> 
