@@ -48,7 +48,7 @@ Here were the results for my comparison of musical data in the sheet music Berce
 <td>24</td>  
 <td>17.32</td> 
 <td>2</td>   
-
+</tr>
 
 ### Task 2: Music 21 Data Visualisations
 Here are the music data visualisations that I generated from inputting cell instructions to Music21 on Jupyter Notebooks.
@@ -65,7 +65,7 @@ Here are the music data visualisations that I generated from inputting cell inst
 
 
   
-</tr>
+
 
 
 
