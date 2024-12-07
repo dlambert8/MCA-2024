@@ -47,7 +47,7 @@ Chromagram for Piano Sonata No.14, Op.27 No.2 by Ludwig van Beethoven.
 #### Chromagrams:
 
 
-[1. Adea](https://github.com/dlambert8/MCA-2024/blob/master/adeachroma.ipynb) 
+[1. Adea](adeachroma.ipynb) 
 
 [2. Moonlight Sonata](https://github.com/dlambert8/MCA-2024/blob/master/moonlightchroma%20(1).ipynb)
 
